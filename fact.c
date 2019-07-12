@@ -12,7 +12,7 @@ void fact()
       printf(" find factorial and try again. \n");
       printf("\nFactorial can't be found for negative");
       printf(" values. It can be only positive or 0 \n");
-      return 1;
+      
    } 
  
    for(i=1;i<=num;i++)
