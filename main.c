@@ -5,7 +5,7 @@ void main()
 
 
    primenum();
-   fact.c()
+   fact();
    sqcube();
    fibonnacci();
 
