@@ -4,9 +4,9 @@ void main()
 {
 
 
-   void primenum();
-   void fact.c()
-   void sqcube();
-   void fibonnacci();
+   primenum();
+   fact.c()
+   sqcube();
+   fibonnacci();
 
 }
