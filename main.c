@@ -7,6 +7,6 @@ void main()
    primenum();
    fact();
    sqcube();
-   fibonnacci();
+   fibonacci();
 
 }
