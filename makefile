@@ -8,7 +8,7 @@ primenum.o:primenum.c
 fact.o:fact.c
 	gcc -c fact.c
 
-fibonacci.o:fibonacci..c
+fibonacci.o:fibonacci.c
 	gcc -c fibonacci.c
 sqcube.o:sqcube.c	
 	gcc -c sqcube.c
