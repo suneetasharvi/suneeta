@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void fact()
 {
    int i,fact=1,num;
@@ -18,6 +19,6 @@ void fact()
    for(i=1;i<=num;i++)
    fact=fact*i;
    printf("\n");
-   printf("Entered number is %d and it's factorial (%d!) is %d\n",num,num,fact);
+   printf("\nEntered number is %d and it's factorial (%d!) is %d\n",num,num,fact);
    
 }
