@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void fibonacci()
 {
    int f1=0, f2=1, fib_ser, cnt=2, lmt;
